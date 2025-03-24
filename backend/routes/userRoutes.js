@@ -8,7 +8,7 @@ const {
 } = require('../controllers/userController');
 const { protect } = require('../middleware/authMiddleware');
 
-// Public routes
+// Public routes1
 router.post('/signup', signup);
 router.post('/login', login);
 
