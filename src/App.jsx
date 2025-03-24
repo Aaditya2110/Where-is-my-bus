@@ -17,6 +17,7 @@ import PaymentPage from "./pages/PaymentPage";
 import FeedbackPage from "./pages/FeedbackPage";
 import ContactPage from "./pages/ContactPage";
 import Profile from "./pages/Profile";
+import SignUpDriver from "./pages/SignUpDriver";
 
 function App() {
   return (
@@ -36,6 +37,7 @@ function App() {
       <Route path="/track/:routeId" element={<RouteTrackingPage />} />
       <Route path="/feedback" element={<FeedbackPage />} />
       <Route path="/profile" element={<Profile />} />
+      <Route path="/signupd" element={<SignUpDriver />} />
       <Route path="/contact" element={<ContactPage />} />
     </Routes>
   );
