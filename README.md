@@ -6,7 +6,6 @@
 
 A real-time bus tracking system built with the MERN stack (MongoDB, Express, React, Node.js) with modern development tools and workflows.
 
-![Project Screenshot](/screenshot.png) <!-- Add screenshot path -->
 
 ## 🌟 Features
 
@@ -41,8 +40,8 @@ A real-time bus tracking system built with the MERN stack (MongoDB, Express, Rea
 
 ### DevOps
 - MongoDB Atlas (Cloud Database)
-- Vercel/Netlify (Frontend Hosting)
-- Render/AWS (Backend Hosting)
+- Vercel(Frontend Hosting)
+- Render (Backend Hosting)
 - Git Version Control
 
 ## 🚀 Installation
